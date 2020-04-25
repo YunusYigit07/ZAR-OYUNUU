@@ -60,7 +60,9 @@ int main()
 {
 	ZarOyun o;
 	o.oyna();
-	
+	//uluibrahim deneme amacli ekledi.
+	ZarOyun o2;
+	o2.oyna();
 
 		return 0;
 }
